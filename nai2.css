@@ -1,0 +1,38 @@
+body {
+    padding: 0.1em;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  nav {
+    background-color: palegoldenrod;
+    height: 40em;
+    width: 20%;
+    float: left;
+  }
+  
+  header {
+    background-color: peru;
+    width: 100%;
+    height: 8em;
+  }
+  
+  main {
+    display: flex;
+  }
+  article {
+    background-color: papayawhip;
+    width: 70%;
+    height: 27em;
+  }
+  
+  aside {
+    background-color: peachpuff;
+    width: 30%;
+    height: 27em;
+  }
+  
+  footer {
+    background-color: peru;
+    width: 100%;
+    height: 5em;
+  }
